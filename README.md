@@ -15,10 +15,10 @@ The data used is an open source data by Instacart from 2017 and customer data se
 
 # Tools
 This project uses Excel and Python. Essentially, the following tools/libraries was employed in python
-Anaconda 3,
-Jupyter Notebook
-Pandas
-Seaborn
-Matplotlib
-Scipy
-Numpy
+* Anaconda 3
+* Jupyter Notebook
+* Pandas
+* Seaborn
+* Matplotlib
+* Sci py
+* Numpy
